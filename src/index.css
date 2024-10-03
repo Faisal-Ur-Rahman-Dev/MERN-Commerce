@@ -1,0 +1,10 @@
+:root {
+  /* Custom Primary Colors */
+  --primary-color: #7f5af0;
+  --primary-alpha: #a58bf38c; 
+  --primary-darker: #6a3eec;  
+  --background-grey: #f2f2f2; 
+  --color-dark-gray: #4A4A4A;
+  --color-light-gray: #F4F4F4;
+  --color-white: #FFFFFF
+}
